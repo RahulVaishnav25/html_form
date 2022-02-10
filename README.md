@@ -1,1 +1,5 @@
-Prerequisites Docker then Run: ./Start.sh
+Prerequisites Docker then Run:
+
+ ```./start.sh```
+
+Open http://localhost
